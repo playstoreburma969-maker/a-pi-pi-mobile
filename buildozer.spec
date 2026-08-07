@@ -21,3 +21,5 @@ orientation = portrait
 
 # (list) Permissions
 #android.permissions = INTERNET
+source.dir = .
+version = 0.1
